@@ -1,8 +1,5 @@
 name: 'Doxygen Action'
 description: 'Generate documentation on a commented project using doxygen'
-branding:
-  icon: 'book-open'
-  color: 'gray-dark'
 inputs:
   doxyfile-path:
     description: 'Path to Doxyfile'
